@@ -96,7 +96,7 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 
 ## 🕸️ Task 1 — Web Scraper
 
-📁 Directory: `task1_web_scraper/`
+📁 Directory: `webscraper`
 
 ### 🔍 Features
 
