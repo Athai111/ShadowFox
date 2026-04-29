@@ -42,8 +42,10 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 
 # 🟢 Beginner Tasks — Python Fundamentals
 
+📁 Directory: `beginner-tasks`
 ## 📘 Topics Covered
 
+📁 File: `Variables.py`
 ### 1. Variables
 
 * Used constants like `pi = 22/7`
@@ -54,6 +56,7 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
   SI = (P × R × T) / 100
   ```
 
+📁 File: `Numbers.py`
 ### 2. Numbers
 
 * Decimal → Octal conversion (`145 → 221`)
@@ -61,6 +64,7 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 * Speed calculation (distance/time)
 * Real-world problem: water storage
 
+📁 File: `List.py`
 ### 3. Lists
 
 * Element counting using `len()`
@@ -68,12 +72,14 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 * Sorting and rearranging
 * Leader selection logic
 
+📁 File: `ForLoop.py`
 ### 4. Loops
 
 * Dice simulation using `random`
 * Frequency counting
 * Workout program using loops & conditions
 
+📁 File: `Dictionary.py`
 ### 5. Dictionary
 
 * Tuple creation `(name, length)`
@@ -96,7 +102,7 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 
 ## 🕸️ Task 1 — Web Scraper
 
-📁 Directory: `webscraper`
+📁 Directory: `intermediate-tasks`
 
 ### 🔍 Features
 
@@ -118,16 +124,16 @@ The work demonstrates strong foundations in **programming, problem-solving, auto
 ### ▶️ Run
 
 ```bash
-cd task1_web_scraper
+cd intermediate-tasks
 pip install requests beautifulsoup4 lxml
-python scraper.py
+python webscraper.py
 ```
 
 ---
 
 ## 🎮 Task 2 — Hangman Game
 
-📁 Directory: `task2_hangman/`
+📁 Directory: `intermediate-tasks`
 
 ### 🎯 Features
 
@@ -141,7 +147,7 @@ python scraper.py
 ### ▶️ Run
 
 ```bash
-cd task2_hangman
+cd intermediate-tasks
 python hangman.py
 ```
 
@@ -149,6 +155,7 @@ python hangman.py
 
 # 🔵 Advanced Task — Data Analysis Project
 
+📁 Directory: `advanced-tasks`
 📁 File: `ShadowFox_DataAnalysis.ipynb`
 
 ---
